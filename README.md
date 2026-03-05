@@ -6,6 +6,19 @@ Wholesale operations sit at the center of sales execution, supply chain coordina
 
 This repository outlines the systems, workflows, and operational models required to manage wholesale operations efficiently and at scale.
 
+## Repository Structure
+
+| Section | Purpose |
+|------|------|
+| Wholesale Operations Strategy | Operational architecture and governance |
+| Order Management | Purchase order workflows and validation |
+| EDI & System Integration | Integration with external partner systems |
+| Logistics & Fulfillment | Shipment execution and routing compliance |
+| Financial Operations | Invoicing and financial reconciliation |
+| Process Improvement | SOP development and operational optimization |
+| Data & Analytics | Order tracking and reporting models |
+| Tools & Technology | ERP and system architecture |
+| KPI Framework | Performance measurement and operational dashboards |
 ---
 
 # Purpose of This Repository
