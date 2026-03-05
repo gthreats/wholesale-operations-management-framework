@@ -7,12 +7,12 @@ The following architecture illustrates how operational data flows between system
 ```mermaid
 flowchart TD
 
-A[Retail Partner Systems<br>NuOrder / JOOR / Retail Portals]
-B[EDI Integration Platform<br>SPS Commerce / TrueCommerce]
-C[Enterprise Resource Planning (ERP)<br>NetSuite / SAP / Sage]
-D[Warehouse Management System (WMS)]
-E[Financial Systems<br>Billing / Accounts Receivable]
-F[Logistics Systems<br>Carriers / TMS]
+A[Retail Partner Systems - NuOrder / JOOR / Retail Portals]
+B[EDI Integration Platform - SPS Commerce / TrueCommerce]
+C[Enterprise Resource Planning ERP - NetSuite / SAP / Sage]
+D[Warehouse Management System WMS]
+E[Financial Systems - Billing / Accounts Receivable]
+F[Logistics Systems - Carriers / TMS]
 G[Shipment Delivery]
 
 A -->|Purchase Orders| B
