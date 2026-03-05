@@ -6,6 +6,11 @@ Wholesale operations sit at the center of sales execution, supply chain coordina
 
 This repository outlines the systems, workflows, and operational models required to manage wholesale operations efficiently and at scale.
 
+## Wholesale Operations Framework
+
+The following framework illustrates the core operational components required to manage and scale wholesale operations across order management, system integration, logistics, financial processes, and operational analytics.
+
+
 ## Repository Structure
 
 | Section | Purpose |
