@@ -1,1 +1,90 @@
+# Wholesale System Architecture
 
+This diagram represents the high-level system architecture supporting wholesale operations across order intake, system integration, fulfillment, and financial processing.
+
+Retail Partner / Distributor
+        │
+        │ Purchase Orders
+        ▼
+Retail Portal / EDI Platform
+(NuOrder, JOOR, SPS Commerce, CommerceHub)
+        │
+        │ Integration
+        ▼
+ERP System
+(NetSuite / SAP / Sage)
+        │
+        │ Inventory Allocation
+        ▼
+Warehouse Management System (WMS)
+        │
+        │ Pick / Pack / Ship
+        ▼
+Logistics / Carrier Systems
+        │
+        │ Shipment Confirmation
+        ▼
+Retail Partner Delivery
+        │
+        │ Billing
+        ▼
+Finance / Accounts Receivable
+
+# Wholesale Order Lifecycle
+
+The wholesale order lifecycle represents the operational process from purchase order receipt through invoicing and payment reconciliation.
+
+
+Purchase Order Received
+        │
+        ▼
+Order QA Validation
+(SKU / Pricing / Terms / ATS)
+        │
+        ▼
+Order Entry or EDI Processing
+        │
+        ▼
+Inventory Allocation
+        │
+        ▼
+Release to Warehouse
+        │
+        ▼
+Pick / Pack / Ship
+        │
+        ▼
+Shipment Confirmation (ASN)
+        │
+        ▼
+Invoice Generation
+        │
+        ▼
+Retailer Payment
+
+
+# EDI Data Pipeline
+
+Electronic Data Interchange (EDI) enables automated communication between retailer systems and internal enterprise systems.
+
+Retailer System
+        │
+        │ EDI 850
+        ▼
+EDI Integration Platform
+(SPS Commerce / TrueCommerce)
+        │
+        ▼
+ERP Order Creation
+        │
+        │ Inventory Check
+        ▼
+Warehouse Fulfillment
+        │
+        │ EDI 856
+        ▼
+Shipment Confirmation
+        │
+        │ EDI 810
+        ▼
+Invoice Transmission
