@@ -6,6 +6,24 @@ Wholesale operations sit at the center of sales execution, supply chain coordina
 
 This repository outlines the systems, workflows, and operational models required to manage wholesale operations efficiently and at scale.
 
+# Purpose of This Repository
+
+The goal of this framework is to demonstrate how wholesale operations can be structured to ensure accuracy, scalability, and operational efficiency.
+
+The repository focuses on:
+
+• Operational workflow design  
+• Order management processes  
+• system integrations and EDI management  
+• logistics coordination  
+• financial operations and invoicing  
+• process optimization  
+• data-driven operational visibility  
+
+The framework is designed to be adaptable across multiple industries where organizations sell products through wholesale partners, distributors, or major retailers.
+
+---
+
 ## Wholesale Operations Framework
 
 The following framework illustrates the core operational components required to manage and scale wholesale operations across order management, system integration, logistics, financial processes, and operational analytics.
@@ -84,24 +102,36 @@ This repository includes visual representations of wholesale operational workflo
 
 These visuals provide a simplified view of how operational systems and workflows interact within wholesale environments.
 ---
+# Repository Sections
 
-# Purpose of This Repository
-
-The goal of this framework is to demonstrate how wholesale operations can be structured to ensure accuracy, scalability, and operational efficiency.
-
-The repository focuses on:
-
-• Operational workflow design  
-• Order management processes  
-• system integrations and EDI management  
-• logistics coordination  
-• financial operations and invoicing  
-• process optimization  
-• data-driven operational visibility  
-
-The framework is designed to be adaptable across multiple industries where organizations sell products through wholesale partners, distributors, or major retailers.
+| Section | Description |
+|------|------|
+| Wholesale Operations Strategy | Operational architecture and business model |
+| Order Management | Purchase order processing workflows |
+| EDI and Systems | Integration and platform management |
+| Logistics and Fulfillment | Shipment coordination and compliance |
+| Financial Operations | Billing and chargeback management |
+| Process Improvement | SOP development and operational optimization |
+| Data and Analytics | Reporting and operational visibility |
+| Tools and Technology | ERP systems and integration platforms |
 
 ---
+
+# Who This Framework Is For
+
+This framework is designed for professionals working in:
+
+• wholesale operations  
+• sales operations  
+• supply chain management  
+• retail operations  
+• logistics coordination  
+• ERP and systems integration  
+
+The concepts presented here apply broadly across industries that distribute products through wholesale channels.
+
+---
+
 
 # Core Functions of Wholesale Operations
 
@@ -253,35 +283,7 @@ Data-driven insights allow operations teams to identify operational risks early 
 
 ---
 
-# Repository Sections
 
-| Section | Description |
-|------|------|
-| Wholesale Operations Strategy | Operational architecture and business model |
-| Order Management | Purchase order processing workflows |
-| EDI and Systems | Integration and platform management |
-| Logistics and Fulfillment | Shipment coordination and compliance |
-| Financial Operations | Billing and chargeback management |
-| Process Improvement | SOP development and operational optimization |
-| Data and Analytics | Reporting and operational visibility |
-| Tools and Technology | ERP systems and integration platforms |
-
----
-
-# Who This Framework Is For
-
-This framework is designed for professionals working in:
-
-• wholesale operations  
-• sales operations  
-• supply chain management  
-• retail operations  
-• logistics coordination  
-• ERP and systems integration  
-
-The concepts presented here apply broadly across industries that distribute products through wholesale channels.
-
----
 
 # Final Note
 
