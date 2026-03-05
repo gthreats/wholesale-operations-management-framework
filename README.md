@@ -19,6 +19,18 @@ This repository outlines the systems, workflows, and operational models required
 | Data & Analytics | Order tracking and reporting models |
 | Tools & Technology | ERP and system architecture |
 | KPI Framework | Performance measurement and operational dashboards |
+
+## Operations Visuals
+
+This repository includes visual representations of wholesale operational workflows and system architecture.
+
+| Visual | Description |
+|------|------|
+| Order Lifecycle Flow | End-to-end order execution process |
+| Wholesale System Architecture | System integrations supporting operations |
+| KPI Dashboard Example | Operational performance monitoring |
+
+These visuals provide a simplified view of how operational systems and workflows interact within wholesale environments.
 ---
 
 # Purpose of This Repository
