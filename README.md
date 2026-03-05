@@ -10,7 +10,54 @@ This repository outlines the systems, workflows, and operational models required
 
 The following framework illustrates the core operational components required to manage and scale wholesale operations across order management, system integration, logistics, financial processes, and operational analytics.
 
+                        WHOLESALE OPERATIONS FRAMEWORK
+--------------------------------------------------------------------------------
 
+        ORDER MANAGEMENT
+        • Purchase Order Intake
+        • Order Validation & QA
+        • Order Processing
+
+                │
+                ▼
+
+        SYSTEM INTEGRATION
+        • EDI Transactions
+        • Retail Partner Portals
+        • ERP Order Management
+
+                │
+                ▼
+
+        LOGISTICS & FULFILLMENT
+        • Inventory Allocation
+        • Warehouse Operations
+        • Routing Compliance
+        • Shipment Execution
+
+                │
+                ▼
+
+        FINANCIAL OPERATIONS
+        • Invoice Generation
+        • Payment Processing
+        • Chargeback Resolution
+
+                │
+                ▼
+
+        DATA & ANALYTICS
+        • Operational Dashboards
+        • KPI Monitoring
+        • Inventory Analytics
+
+                │
+                ▼
+
+        PROCESS IMPROVEMENT
+        • SOP Development
+        • Operational Governance
+        • Continuous Improvement
 ## Repository Structure
 
 | Section | Purpose |
