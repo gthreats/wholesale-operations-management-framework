@@ -90,6 +90,20 @@ The following framework illustrates the core operational components required to 
 | Tools & Technology | ERP and system architecture |
 | KPI Framework | Performance measurement and operational dashboards |
 
+## Repository Navigation
+
+| Section | Description |
+|------|------|
+| Wholesale Operations Strategy | Operational architecture and governance |
+| Order Management | Purchase order workflows and validation |
+| EDI & System Integration | Retail partner and system integrations |
+| Logistics & Fulfillment | Shipment routing and execution |
+| Financial Operations | Invoicing and chargeback management |
+| Process Improvement | SOP development and operational governance |
+| Data & Analytics | Operational reporting and dashboards |
+| Tools & Technology | ERP integration and system architecture |
+| Operations Visuals | Process flows, system diagrams, and dashboards |
+
 ## Operations Visuals
 
 This repository includes visual representations of wholesale operational workflows and system architecture.
