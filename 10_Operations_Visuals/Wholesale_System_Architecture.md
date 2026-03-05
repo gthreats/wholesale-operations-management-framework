@@ -1,15 +1,12 @@
 # Wholesale System Architecture
 
-Wholesale operations depend on multiple integrated systems that support order processing, inventory management, logistics coordination, and financial transactions.
-
-The following architecture illustrates how operational data flows between systems.
+This simplified architecture shows how wholesale orders move through operational systems.
 
 ```mermaid
 flowchart TD
-A[Retail Partner Systems] -->|Purchase Orders| B[EDI Integration Platform]
+A[Retail Partner] --> B[EDI Platform]
 B --> C[ERP System]
-C --> D[Warehouse Management System]
-C --> E[Financial Systems]
-D --> F[Logistics Systems]
-F --> G[Shipment Delivery]
+C --> D[Warehouse]
+D --> E[Shipping]
+E --> F[Delivery]
 ```
