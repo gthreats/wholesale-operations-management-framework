@@ -296,7 +296,17 @@ Operational analytics can track metrics such as:
 Data-driven insights allow operations teams to identify operational risks early and improve decision making.
 
 ---
+## Operations Toolkit
 
+This repository includes visual examples of operational tools used in wholesale environments.
+
+| Tool | Description |
+|------|------|
+| Operations Performance Dashboard | Example KPI dashboard used to monitor operational performance |
+| Inventory Tracking Model | Example inventory monitoring framework |
+| Order Status Report | Example order lifecycle tracking report |
+
+These tools demonstrate how operational data supports decision making within wholesale and supply chain operations.
 
 
 # Final Note
