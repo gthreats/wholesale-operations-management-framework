@@ -1,116 +1,99 @@
-# System Troubleshooting Guide
+# Retailer Integration Framework
 
 ## Overview
 
-Wholesale operations depend heavily on system integrations between ERP platforms, EDI providers, warehouse systems, and retailer portals. When these systems experience issues, order flow and operational execution can be disrupted.
+Retailer integrations enable wholesale organizations to exchange order, shipment, and financial data with external partners automatically. These integrations allow purchase orders, inventory updates, shipment notifications, and invoices to move between systems without manual intervention.
 
-A structured troubleshooting process helps operations teams identify and resolve system issues quickly.
-
----
-
-## Common System Issues
-
-Operational teams frequently encounter issues such as:
-
-• EDI transmission failures  
-• rejected purchase orders  
-• incorrect product mappings  
-• missing order acknowledgements  
-• shipment notification errors  
-• invoice transmission failures  
-• integration delays between systems  
-
-These issues must be addressed quickly to prevent downstream operational impact.
+Retail integrations are typically managed through EDI platforms, retailer portals, or direct API connections.
 
 ---
 
-## Troubleshooting Process
+## Integration Channels
 
-A structured troubleshooting process typically follows these steps:
+Wholesale organizations commonly integrate with retail partners through several channels:
 
-1. Identify the issue
-2. Verify system inputs and data
-3. Check integration platform status
-4. Review error messages or logs
-5. Contact appropriate support teams
-6. Correct data or configuration
-7. validate that the issue is resolved
+• Electronic Data Interchange (EDI)  
+• retailer vendor portals  
+• wholesale order management platforms  
+• API integrations  
+• marketplace integration platforms  
 
-This approach ensures that system issues are handled consistently.
+Each integration channel may require different configuration and monitoring processes.
 
 ---
 
-## Key Troubleshooting Areas
+## Common Integration Platforms
 
-### EDI Platform Issues
+Examples of platforms used to connect wholesale systems with retailers include:
 
-Common checks include:
+• SPS Commerce  
+• CommerceHub  
+• TrueCommerce  
+• Retailer-specific portals  
+• Marketplace integration platforms  
 
-• verifying EDI transmission status  
-• reviewing error codes  
-• checking transaction mapping  
-• confirming retailer endpoint configuration
-
-### ERP System Issues
-
-Common checks include:
-
-• order creation errors  
-• missing product records  
-• incorrect pricing tables  
-• failed system integrations
-
-### Warehouse System Issues
-
-Operational checks may include:
-
-• order release status  
-• inventory availability  
-• fulfillment queue errors
+These systems help standardize communication between different enterprise systems.
 
 ---
 
-## Escalation
+## Typical Retail EDI Transactions
 
-When issues cannot be resolved by operational teams, escalation may be required to:
+Retail integrations usually rely on standardized EDI transaction sets.
 
-• internal IT teams  
-• EDI platform providers  
-• retailer integration contacts  
-• ERP support teams  
+Common transactions include:
 
-Clear escalation procedures help resolve issues faster.
+| EDI Code | Description |
+|--------|-------------|
+| 850 | Purchase Order |
+| 855 | Purchase Order Acknowledgement |
+| 856 | Advance Ship Notice |
+| 810 | Invoice |
 
----
-
-## Documentation
-
-All system issues should be documented with:
-
-• order number  
-• integration platform involved  
-• error message or code  
-• root cause  
-• resolution steps  
-• resolution time
-
-Maintaining issue logs helps organizations identify recurring integration problems.
+These transactions automate order and shipment communication between organizations.
 
 ---
 
-## Operational Impact
+## Integration Lifecycle
 
-System failures can affect multiple operational areas including:
+Retail integrations typically follow a structured implementation lifecycle.
 
-• order processing delays  
-• shipment scheduling disruptions  
-• inventory allocation conflicts  
-• invoice accuracy issues  
+1. Retail partner onboarding  
+2. System mapping configuration  
+3. EDI testing and validation  
+4. Production activation  
+5. Ongoing monitoring and support  
 
-Rapid troubleshooting helps minimize these impacts.
+Testing is critical to ensure orders transmit correctly between systems.
+
+---
+
+## Integration Ownership
+
+Retail integrations often involve coordination between multiple teams:
+
+• operations teams  
+• IT or systems teams  
+• integration platform providers  
+• retailer technical contacts  
+• finance teams for invoice validation  
+
+Clear ownership ensures integrations remain stable and reliable.
+
+---
+
+## Integration Monitoring
+
+Operations teams should monitor integrations regularly to ensure:
+
+• purchase orders are received successfully  
+• shipment notifications transmit correctly  
+• invoice data matches system records  
+• integration errors are resolved quickly  
+
+Regular monitoring prevents operational disruption.
 
 ---
 
 ## Final Note
 
-Reliable system performance is essential to wholesale operations. Structured troubleshooting processes ensure that integration failures and system errors are resolved quickly, allowing order flow and operational execution to continue with minimal disruption.
+Reliable retailer integrations are critical to modern wholesale operations. When integrations function correctly, organizations can process orders faster, reduce manual errors, and maintain consistent communication with retail partners.
