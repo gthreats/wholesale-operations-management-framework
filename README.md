@@ -1,5 +1,16 @@
 # Wholesale Operations Management Framework
 
+**A portfolio-ready operating model for wholesale, supply chain, logistics, and systems integration**
+
+![Operations Framework](https://img.shields.io/badge/Framework-Wholesale_Operations-blue)
+![Supply Chain](https://img.shields.io/badge/Domain-Supply_Chain-success)
+![EDI Integration](https://img.shields.io/badge/Capability-EDI_Integration-orange)
+![ERP Systems](https://img.shields.io/badge/Capability-ERP_Systems-informational)
+![Logistics](https://img.shields.io/badge/Capability-Logistics-red)
+![Analytics](https://img.shields.io/badge/Capability-Operational_Analytics-yellow)
+
+This repository demonstrates how wholesale operations can be structured to support order execution, inventory flow, logistics coordination, invoicing, and operational performance management.
+
 This repository provides a structured operational framework for managing wholesale business operations across consumer goods, retail, fashion, electronics, and other product-driven industries.
 
 Wholesale operations sit at the center of sales execution, supply chain coordination, system integration, and financial accuracy. Effective wholesale management requires strong operational workflows, integrated technology systems, and clear cross-functional communication.
