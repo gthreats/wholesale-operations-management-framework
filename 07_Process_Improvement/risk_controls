@@ -1,1 +1,100 @@
+# Operational Risk Control Framework
 
+## Overview
+
+Operational risk controls help organizations prevent errors, disruptions, and financial losses within wholesale operations.
+
+Risk controls are checkpoints within operational workflows that verify accuracy before processes move forward.
+
+---
+
+## Purpose
+
+Risk controls are designed to:
+
+• prevent operational errors  
+• reduce financial risk  
+• maintain compliance with retailer requirements  
+• protect shipment timelines  
+• ensure data accuracy across systems  
+
+These controls help stabilize operations as order volumes increase.
+
+---
+
+## Key Risk Areas
+
+Wholesale operations face risks in several areas, including:
+
+### Order Accuracy
+
+Risks may include:
+
+• incorrect SKU selection  
+• pricing errors  
+• invalid order quantities  
+
+Validation checkpoints reduce these risks.
+
+### System Integration
+
+Risks may include:
+
+• EDI transmission failures  
+• incorrect data mapping  
+• delayed system updates  
+
+Monitoring integration performance helps detect issues early.
+
+### Logistics Compliance
+
+Risks may include:
+
+• routing guide violations  
+• incorrect carrier selection  
+• shipment delays  
+
+Compliance reviews help prevent penalties.
+
+### Financial Accuracy
+
+Risks may include:
+
+• incorrect invoice values  
+• duplicate invoices  
+• unresolved deductions  
+
+Financial review processes reduce billing errors.
+
+---
+
+## Risk Control Points
+
+Operational controls may include:
+
+• order validation checkpoints  
+• system monitoring alerts  
+• shipment compliance reviews  
+• invoice validation procedures  
+• exception management tracking  
+
+These controls help detect issues before they escalate.
+
+---
+
+## Monitoring and Review
+
+Risk controls should be reviewed regularly through:
+
+• operational KPI monitoring  
+• issue log analysis  
+• audit reviews  
+• process performance evaluations  
+
+Reviewing risk controls helps organizations maintain operational discipline.
+
+---
+
+## Final Note
+
+Operational risk controls are essential for maintaining stable wholesale operations. Strong control processes help organizations prevent errors, reduce financial risk, and maintain service reliability.
