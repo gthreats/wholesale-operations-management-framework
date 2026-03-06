@@ -26,56 +26,60 @@ The framework is designed to be adaptable across multiple industries where organ
 
 ## Wholesale Operations Framework
 
-The following framework illustrates the core operational components required to manage and scale wholesale operations across order management, system integration, logistics, financial processes, and operational analytics.
+The following framework illustrates the core components required to manage wholesale operations from order intake through delivery, billing, and operational analytics.
 
-                        WHOLESALE OPERATIONS FRAMEWORK
---------------------------------------------------------------------------------
+```text
++------------------------------------------------------+
+|                WHOLESALE OPERATIONS                  |
+|                     FRAMEWORK                        |
++------------------------------------------------------+
 
-        ORDER MANAGEMENT
-        • Purchase Order Intake
-        • Order Validation & QA
-        • Order Processing
+ORDER MANAGEMENT
+• Purchase Order Intake
+• Order Validation (QA)
+• Order Processing
 
-                │
-                ▼
+        |
+        v
 
-        SYSTEM INTEGRATION
-        • EDI Transactions
-        • Retail Partner Portals
-        • ERP Order Management
+SYSTEM INTEGRATION
+• EDI Transactions
+• Retail Partner Portals
+• ERP Order Management
 
-                │
-                ▼
+        |
+        v
 
-        LOGISTICS & FULFILLMENT
-        • Inventory Allocation
-        • Warehouse Operations
-        • Routing Compliance
-        • Shipment Execution
+LOGISTICS & FULFILLMENT
+• Inventory Allocation
+• Warehouse Operations
+• Routing Compliance
+• Shipment Execution
 
-                │
-                ▼
+        |
+        v
 
-        FINANCIAL OPERATIONS
-        • Invoice Generation
-        • Payment Processing
-        • Chargeback Resolution
+FINANCIAL OPERATIONS
+• Invoice Generation
+• Payment Processing
+• Chargeback Management
 
-                │
-                ▼
+        |
+        v
 
-        DATA & ANALYTICS
-        • Operational Dashboards
-        • KPI Monitoring
-        • Inventory Analytics
+DATA & ANALYTICS
+• Operational Dashboards
+• KPI Monitoring
+• Inventory Analytics
 
-                │
-                ▼
+        |
+        v
 
-        PROCESS IMPROVEMENT
-        • SOP Development
-        • Operational Governance
-        • Continuous Improvement
+PROCESS IMPROVEMENT
+• SOP Development
+• Governance
+• Continuous Improvement
+```
 ## Repository Structure
 
 | Section | Purpose |
