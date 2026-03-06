@@ -1,1 +1,139 @@
+# Strategic KPI Framework
 
+## Overview
+
+A strategic KPI framework defines the high-level metrics used to evaluate the health, efficiency, and scalability of wholesale operations.
+
+These metrics provide leadership with visibility into whether operational workflows are functioning as intended across order management, fulfillment, logistics, invoicing, and compliance.
+
+---
+
+## Purpose
+
+The purpose of a strategic KPI framework is to:
+
+- monitor operational performance
+- identify risks and bottlenecks
+- measure process reliability
+- support cross-functional decision-making
+- drive continuous improvement
+
+KPIs allow organizations to move beyond anecdotal operational feedback and manage performance with data.
+
+---
+
+## KPI Categories
+
+Wholesale operations KPIs can be grouped into five core categories.
+
+### 1. Order Management KPIs
+
+These metrics evaluate order intake and processing performance.
+
+Examples include:
+
+- order accuracy rate
+- order processing time
+- order hold rate
+
+### 2. Inventory KPIs
+
+These metrics evaluate product availability and allocation efficiency.
+
+Examples include:
+
+- fill rate
+- stockout rate
+- inventory availability
+- backorder rate
+
+### 3. Logistics KPIs
+
+These metrics evaluate shipment execution and compliance.
+
+Examples include:
+
+- on-time shipment rate
+- routing compliance rate
+- shipment exception rate
+
+### 4. Financial KPIs
+
+These metrics evaluate invoice accuracy and revenue protection.
+
+Examples include:
+
+- invoice accuracy rate
+- chargeback rate
+- payment cycle time
+
+### 5. Operational Improvement KPIs
+
+These metrics evaluate process maturity and improvement effectiveness.
+
+Examples include:
+
+- SOP adherence rate
+- issue resolution cycle time
+- exception recurrence rate
+
+---
+
+## KPI Ownership
+
+Each KPI should have a clear owner who is responsible for:
+
+- maintaining data accuracy
+- monitoring trends
+- escalating issues
+- driving corrective action when performance declines
+
+Ownership may be shared across operations, logistics, finance, and analytics teams depending on the metric.
+
+---
+
+## KPI Review Process
+
+KPIs should be reviewed through a structured cadence.
+
+Recommended cadence:
+
+- daily monitoring for operational exceptions
+- weekly review for tactical performance
+- monthly review for trend analysis
+- quarterly review for strategic improvement priorities
+
+---
+
+## KPI Design Principles
+
+Strong KPI frameworks should follow these principles:
+
+- metrics should be measurable
+- definitions should be standardized
+- reporting should be timely
+- targets should be realistic
+- results should drive action
+
+A KPI that is not reviewed or acted on has limited value.
+
+---
+
+## Example Strategic KPIs
+
+A simple strategic KPI set for wholesale operations may include:
+
+- order accuracy rate
+- fill rate
+- on-time shipment rate
+- routing compliance rate
+- invoice accuracy rate
+- chargeback rate
+
+Together, these KPIs provide a balanced view of operational execution.
+
+---
+
+## Final Note
+
+A strategic KPI framework helps leadership understand whether wholesale operations are stable, scalable, and aligned with service expectations. When KPIs are clearly defined, assigned, and reviewed consistently, they become a powerful tool for operational control and improvement.
