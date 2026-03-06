@@ -97,16 +97,17 @@ PROCESS IMPROVEMENT
 ## Repository Navigation
 
 | Section | Description |
-|------|------|
+|--------|-------------|
 | Wholesale Operations Strategy | Operational architecture and governance |
 | Order Management | Purchase order workflows and validation |
-| EDI & System Integration | Retail partner and system integrations |
-| Logistics & Fulfillment | Shipment routing and execution |
+| EDI & System Integration | Integration with external partner systems |
+| Logistics & Fulfillment | Shipment execution and routing compliance |
 | Financial Operations | Invoicing and chargeback management |
 | Process Improvement | SOP development and operational governance |
-| Data & Analytics | Operational reporting and dashboards |
-| Tools & Technology | ERP integration and system architecture |
-| Operations Visuals | Process flows, system diagrams, and dashboards |
+| Data & Analytics | Order tracking and operational reporting |
+| Tools & Technology | ERP integrations and system architecture |
+| Operations Visuals | Process flow diagrams and architecture |
+| Operations Toolkit | Example dashboards and operational reports |
 
 ## Operations Visuals
 
