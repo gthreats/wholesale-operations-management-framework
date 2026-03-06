@@ -1,1 +1,74 @@
+# Purchase Order Management
 
+## Overview
+
+Purchase order management is the first stage of the wholesale order lifecycle. It involves receiving, reviewing, and preparing purchase orders before they enter internal order processing systems.
+
+Wholesale businesses receive purchase orders from retail partners, distributors, or marketplaces through various channels including EDI integrations, retailer portals, and manual submission.
+
+Proper purchase order management ensures that orders are captured accurately and routed into the operational workflow without errors.
+
+---
+
+## Common Purchase Order Sources
+
+Wholesale organizations typically receive purchase orders through several channels:
+
+• EDI integrations  
+• retailer vendor portals  
+• wholesale sales platforms  
+• manual sales entry  
+
+Each channel requires processes to ensure orders are captured consistently.
+
+---
+
+## Key Purchase Order Data
+
+A purchase order typically contains the following information:
+
+• retailer or distributor name  
+• purchase order number  
+• SKU or product identifiers  
+• quantities ordered  
+• agreed pricing  
+• requested delivery date  
+• shipping location  
+
+Operations teams must ensure this information is complete before the order enters the processing pipeline.
+
+---
+
+## Operational Responsibilities
+
+Purchase order management responsibilities often include:
+
+• monitoring incoming orders  
+• verifying required fields  
+• confirming retailer identification  
+• validating order formatting  
+• routing orders to validation teams  
+
+This stage acts as the intake gateway for all wholesale orders.
+
+---
+
+## Risks and Common Issues
+
+Common purchase order intake issues include:
+
+• missing SKU identifiers  
+• incorrect pricing  
+• incomplete shipping information  
+• duplicate orders  
+• formatting errors from integrations  
+
+Early detection prevents downstream operational disruptions.
+
+---
+
+## Importance of Standardization
+
+Standardized intake procedures ensure that all orders follow the same review process before moving to validation and processing stages.
+
+This improves operational efficiency and reduces order errors.
