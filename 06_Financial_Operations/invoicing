@@ -1,1 +1,79 @@
+# Wholesale Invoicing Process
 
+## Overview
+
+Invoicing is the process of generating and transmitting billing records for shipped wholesale orders. Accurate invoicing ensures that organizations receive timely payment while maintaining financial transparency with retail partners.
+
+Invoices are typically generated once orders have shipped and shipment confirmation has been recorded.
+
+---
+
+## Invoice Generation
+
+Invoices are usually created automatically through enterprise systems such as:
+
+• ERP platforms  
+• EDI integration platforms  
+• retailer vendor portals  
+
+Automated invoice generation reduces manual errors and improves billing efficiency.
+
+---
+
+## Invoice Data Elements
+
+A typical wholesale invoice contains the following information:
+
+• invoice number  
+• purchase order number  
+• SKU or product identifier  
+• shipped quantities  
+• pricing and discounts  
+• shipment date  
+• payment terms  
+
+Accurate invoice data is essential to ensure payment processing.
+
+---
+
+## Invoice Transmission
+
+Invoices may be transmitted through several channels including:
+
+• EDI invoice transactions (EDI 810)  
+• retailer portals  
+• automated ERP integrations  
+
+Transmission methods depend on retailer system requirements.
+
+---
+
+## Invoice Validation
+
+Operations and finance teams may validate invoices to ensure:
+
+• pricing matches agreed terms  
+• shipped quantities are correct  
+• shipment documentation is accurate  
+• invoice format meets retailer requirements  
+
+Early validation reduces disputes and delayed payments.
+
+---
+
+## Operational Coordination
+
+Invoicing often requires coordination between:
+
+• operations teams  
+• finance departments  
+• logistics teams  
+• system integration teams  
+
+This coordination ensures invoice data aligns with shipment records.
+
+---
+
+## Final Note
+
+Accurate invoicing ensures financial integrity within wholesale operations. Reliable billing processes support strong retailer relationships and predictable cash flow.
