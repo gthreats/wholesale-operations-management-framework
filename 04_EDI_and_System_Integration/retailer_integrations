@@ -1,1 +1,116 @@
+# System Troubleshooting Guide
 
+## Overview
+
+Wholesale operations depend heavily on system integrations between ERP platforms, EDI providers, warehouse systems, and retailer portals. When these systems experience issues, order flow and operational execution can be disrupted.
+
+A structured troubleshooting process helps operations teams identify and resolve system issues quickly.
+
+---
+
+## Common System Issues
+
+Operational teams frequently encounter issues such as:
+
+• EDI transmission failures  
+• rejected purchase orders  
+• incorrect product mappings  
+• missing order acknowledgements  
+• shipment notification errors  
+• invoice transmission failures  
+• integration delays between systems  
+
+These issues must be addressed quickly to prevent downstream operational impact.
+
+---
+
+## Troubleshooting Process
+
+A structured troubleshooting process typically follows these steps:
+
+1. Identify the issue
+2. Verify system inputs and data
+3. Check integration platform status
+4. Review error messages or logs
+5. Contact appropriate support teams
+6. Correct data or configuration
+7. validate that the issue is resolved
+
+This approach ensures that system issues are handled consistently.
+
+---
+
+## Key Troubleshooting Areas
+
+### EDI Platform Issues
+
+Common checks include:
+
+• verifying EDI transmission status  
+• reviewing error codes  
+• checking transaction mapping  
+• confirming retailer endpoint configuration
+
+### ERP System Issues
+
+Common checks include:
+
+• order creation errors  
+• missing product records  
+• incorrect pricing tables  
+• failed system integrations
+
+### Warehouse System Issues
+
+Operational checks may include:
+
+• order release status  
+• inventory availability  
+• fulfillment queue errors
+
+---
+
+## Escalation
+
+When issues cannot be resolved by operational teams, escalation may be required to:
+
+• internal IT teams  
+• EDI platform providers  
+• retailer integration contacts  
+• ERP support teams  
+
+Clear escalation procedures help resolve issues faster.
+
+---
+
+## Documentation
+
+All system issues should be documented with:
+
+• order number  
+• integration platform involved  
+• error message or code  
+• root cause  
+• resolution steps  
+• resolution time
+
+Maintaining issue logs helps organizations identify recurring integration problems.
+
+---
+
+## Operational Impact
+
+System failures can affect multiple operational areas including:
+
+• order processing delays  
+• shipment scheduling disruptions  
+• inventory allocation conflicts  
+• invoice accuracy issues  
+
+Rapid troubleshooting helps minimize these impacts.
+
+---
+
+## Final Note
+
+Reliable system performance is essential to wholesale operations. Structured troubleshooting processes ensure that integration failures and system errors are resolved quickly, allowing order flow and operational execution to continue with minimal disruption.
