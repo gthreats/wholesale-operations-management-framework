@@ -133,6 +133,29 @@ Retail Pricing → Contract Pricing Table
 
 Incorrect mapping can cause order rejects, shipment delays, or invoice discrepancies.
 
+## EDI Data Flow
+
+```text
+Retailer System
+        |
+        |  EDI 850 (Purchase Order)
+        v
+EDI Integration Platform
+        |
+        v
+ERP Order Creation
+        |
+        v
+Warehouse Fulfillment
+        |
+        |  EDI 856 (Advance Ship Notice)
+        v
+Retailer Receiving System
+        |
+        |  EDI 810 (Invoice)
+        v
+Retailer Accounts Payable
+```
 ---
 
 # Integration Monitoring
