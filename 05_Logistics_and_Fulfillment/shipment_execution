@@ -1,1 +1,82 @@
+# Shipment Execution Model
 
+## Overview
+
+Shipment execution is the stage of wholesale operations where validated and allocated orders are physically prepared and dispatched to customers.
+
+This stage connects warehouse operations, logistics coordination, and transportation partners to ensure orders are delivered according to customer expectations.
+
+---
+
+## Key Shipment Execution Steps
+
+Shipment execution generally includes the following stages:
+
+1. Order release to warehouse  
+2. Picking and packing of products  
+3. Label generation and carton preparation  
+4. Carrier booking or scheduling  
+5. Shipment dispatch  
+
+Each step must align with retailer compliance requirements.
+
+---
+
+## Warehouse Fulfillment Process
+
+Warehouse teams typically perform the following activities:
+
+• picking ordered products  
+• verifying product quantities  
+• packing cartons or pallets  
+• applying shipping labels  
+• preparing shipment documentation  
+
+Accuracy during fulfillment prevents downstream shipment issues.
+
+---
+
+## Transportation Coordination
+
+Logistics teams coordinate transportation by:
+
+• selecting approved carriers  
+• scheduling pickup appointments  
+• confirming routing guide compliance  
+• generating bills of lading  
+• monitoring shipment tracking
+
+Carrier coordination ensures shipments move efficiently through the transportation network.
+
+---
+
+## Shipment Visibility
+
+Operations teams track shipment status through:
+
+• carrier tracking systems  
+• warehouse management systems  
+• retailer portals  
+• transportation management systems
+
+Shipment visibility allows operations teams to respond quickly if issues occur.
+
+---
+
+## Operational Risks
+
+Shipment execution issues may include:
+
+• incorrect labeling  
+• shipment delays  
+• incorrect carrier usage  
+• routing guide violations  
+• incomplete shipment documentation
+
+Proper process controls reduce these risks.
+
+---
+
+## Final Note
+
+Shipment execution is where operational planning becomes physical product movement. Clear coordination between warehouse teams, logistics staff, and carriers ensures shipments reach customers on time and in compliance with retailer requirements.
