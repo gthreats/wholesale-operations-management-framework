@@ -1,1 +1,78 @@
+# Integration Platforms in Wholesale Operations
 
+## Overview
+
+Integration platforms allow wholesale organizations to connect internal systems with external retailer systems, marketplaces, and logistics platforms.
+
+These platforms enable automated data exchange between organizations and reduce manual order processing.
+
+---
+
+## Purpose
+
+Integration platforms help organizations:
+
+• receive purchase orders electronically  
+• transmit shipment notifications  
+• send invoices automatically  
+• synchronize product and inventory data  
+
+Automation improves operational accuracy and efficiency.
+
+---
+
+## Common Integration Platforms
+
+Examples of commonly used integration platforms include:
+
+• SPS Commerce  
+• CommerceHub  
+• TrueCommerce  
+• EDI VAN providers  
+• API integration platforms  
+
+These systems standardize communication between business partners.
+
+---
+
+## Integration Types
+
+Wholesale integrations typically include:
+
+### EDI Integrations
+
+Electronic Data Interchange allows organizations to exchange standardized business documents.
+
+Common transactions include:
+
+• EDI 850 – Purchase Order  
+• EDI 855 – Order Acknowledgement  
+• EDI 856 – Advance Ship Notice  
+• EDI 810 – Invoice
+
+---
+
+### API Integrations
+
+Some organizations use API connections to exchange data between systems in real time.
+
+APIs allow faster synchronization of product data, inventory availability, and order status.
+
+---
+
+## Operational Benefits
+
+Integration platforms allow organizations to:
+
+• reduce manual order entry  
+• improve data accuracy  
+• accelerate order processing  
+• maintain consistent communication with retail partners  
+
+These benefits improve overall operational efficiency.
+
+---
+
+## Final Note
+
+Integration platforms play a critical role in modern wholesale operations. By automating system communication, organizations can process orders faster and maintain reliable operational workflows.
